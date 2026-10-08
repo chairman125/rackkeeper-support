@@ -38,4 +38,4 @@ RackKeeper는 전산실의 랙·장비·연결·배치도를 기기 안에서 �
 
 ## 문의
 
-<https://github.com/chairman125/rackkeeper-support/issues>
+메일 <bitsae.mooni@gmail.com>, 또는 공개 게시판 <https://github.com/chairman125/rackkeeper-support/issues>

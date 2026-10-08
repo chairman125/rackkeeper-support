@@ -36,6 +36,6 @@ Data stays on the device until you delete it or delete the app. Deleting the app
 
 ## Contact
 
-<https://github.com/chairman125/rackkeeper-support/issues>
+Email <bitsae.mooni@gmail.com>, or open a public issue at <https://github.com/chairman125/rackkeeper-support/issues>
 
 A Korean version of this policy is available at [privacy-ko.html](privacy-ko.html).
