@@ -32,7 +32,7 @@ Buying and restoring the full version is handled by Apple's App Store. The devel
 
 ## Retention and deletion
 
-Data stays on the device until you delete it or delete the app. Deleting the app deletes its data and the sender name on the device. iOS may keep the device keys and the remembered team passphrase in the Keychain after the app is deleted. You can erase the remembered team passphrase in the app under Share → Settings → Forget team passphrase.
+Data stays on the device until you delete it or delete the app. Deleting the app deletes its data and the sender name on the device. iOS may keep the device keys and the remembered team passphrase in the Keychain after the app is deleted. You can erase the remembered team passphrase in the app under Share → Settings → ‘Forget Team Passphrase’.
 
 ## Contact
 
