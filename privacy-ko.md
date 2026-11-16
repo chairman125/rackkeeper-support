@@ -4,7 +4,7 @@
 
 시행일: 2026-11-16
 
-RackKeeper는 전산실의 랙·장비·연결·배치도를 기기 안에서 관리하는 앱입니다. 이 처리방침은 iPhone·iPad판(App Store)과 Android판(Google Play)에 함께 적용됩니다. 개발자는 사용자의 정보를 수집하거나 전송받지 않습니다.
+RackKeeper는 전산실의 랙·장비·연결·배치도를 기기 안에서 관리하는 앱입니다. 이 처리방침은 Android판(Google Play)과 출시 예정인 iPhone·iPad판(App Store)에 함께 적용됩니다. 개발자는 사용자의 정보를 수집하거나 전송받지 않습니다.
 
 ## 수집하는 정보
 

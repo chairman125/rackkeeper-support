@@ -2,7 +2,7 @@
 
 Effective date: November 16, 2026
 
-RackKeeper is an app for managing server room racks, equipment, connections and floor plans on the device. This policy covers both the iPhone and iPad app (App Store) and the Android app (Google Play). The developer does not collect or receive any of your information.
+RackKeeper is an app for managing server room racks, equipment, connections and floor plans on the device. This policy covers the Android app (Google Play) and the upcoming iPhone and iPad app (App Store). The developer does not collect or receive any of your information.
 
 ## Information collected
 
